@@ -3,9 +3,6 @@
 -  👀 I’m interested in coding
 - 📚 I am here to explore more about open source contribution
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHimaghnaDas%2Fhit-counter&count_bg=%2306FF00&title_bg=%23FF0000&icon=&icon_color=%230091FF&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Himaghna's github stats](https://github-readme-stats.vercel.app/api?username=HimaghnaDas&theme=blue-green)](https://github.com/HimaghnaDas/github-readme-stats)
-
 - Things I have a bit knowledge of:-
 
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
